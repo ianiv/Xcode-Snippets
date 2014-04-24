@@ -1,5 +1,5 @@
 // TODOs as Warnings
-// 
+// Make TODO comments appear as warnings
 //
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 171DE33D-CB47-4894-BC0C-2D72EF460F05
